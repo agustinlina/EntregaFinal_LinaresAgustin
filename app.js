@@ -11,7 +11,7 @@ const option = () => {
 
 const addClient = (name, surname, debt) => {
   clientId++
-  let client = `ID: ${clientId}. Nombre: ${name} ${surname}. Deuda: ${debt}.`
+  let client = `ID: ${clientId}. Nombre ${name} ${surname}. Deuda: ${debt}.`
   clients.push(client)
 }
 
