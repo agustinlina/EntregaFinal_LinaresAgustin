@@ -3,13 +3,11 @@
 ## Emulador de Sistema de Gestión de Clientes
 
 ### Descripción del Proyecto
-El objetivo de este proyecto es emular un sistema de gestión de clientes, permitiendo al usuario agregar y eliminar clientes de una tabla. Durante la carga de cada cliente, el usuario puede especificar los siguientes datos:
+El objetivo de este proyecto es emular un sistema de gestión de clientes, permitiendo al usuario agregar y eliminar clientes de una tabla, también se cargan de manera asincronica clientes guardados previamente, en un archivo de formato JSON. Durante la carga de nuevos clientes, el usuario puede especificar los siguientes datos:
 - Nombre.
 - Apellido.
 - Deuda.
   
-El sistema, también carga de manera asincronica clientes guardados previamente en un archivo de formato JSON. Se utiliza el almacenamiento local (`localStorage`) para guardar los clientes, de modo que la información persista entre sesiones.
-
 ### Tecnologías Utilizadas
 Este proyecto fue desarrollado utilizando:
 - **JavaScript**: Para la lógica del sistema de gestión de clientes.
