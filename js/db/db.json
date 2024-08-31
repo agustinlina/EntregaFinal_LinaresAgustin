@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Juan",
+    "surname": "Rodriguez",
+    "debt": 995000
+  },
+  {
+    "id": 2,
+    "name": "Nicolas",
+    "surname": "Avellaneda",
+    "debt": 5000
+  },
+  {
+    "id": 3,
+    "name": "Enrique",
+    "surname": "Lozano",
+    "debt": 9999
+  },
+  {
+    "id": 4,
+    "name": "Nicolas",
+    "surname": "Avellaneda",
+    "debt": 5000
+  },
+  {
+    "id": 5,
+    "name": "Nicolas",
+    "surname": "Avellaneda",
+    "debt": 5000
+  }
+]
