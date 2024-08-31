@@ -1,4 +1,4 @@
-# PreeEntrega N° 2 Curso JS Flex
+# Entrega Final de Curso JS Flex, CoderHouse 2024.
 
 ## Emulador de Sistema de Gestión de Clientes.
 
